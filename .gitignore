@@ -1,0 +1,8 @@
+# keep private stuff out of GitHub
+.venv/
+output/
+companies_backup.csv
+*.docx
+.env
+__pycache__/
+.DS_Store
